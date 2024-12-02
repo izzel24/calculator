@@ -8,6 +8,7 @@ This project was developed as part of the FreeCodeCamp Certification program to 
 - **Dynamic UI updates** for seamless user interaction
 
 ## Project Screenshot 📸
+<img src="https://raw.githubusercontent.com/izzel24/calculator/refs/heads/main/screenshot_project.png" alt="Calculator Screenshot"/>
 
 
 ## Live Demo 🚀
