@@ -1,8 +1,21 @@
-# React + Vite
+# Calculator - FreeCodeCamp Certification Project 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was developed as part of the FreeCodeCamp Certification program to demonstrate my understanding of frontend development principles, including:
 
-Currently, two official plugins are available:
+- **Component-based architecture** with React
+- **State management** using `useState` for handling user input and operations
+- **Real-time calculations** using custom logic for operator precedence and mathematical operations
+- **Dynamic UI updates** for seamless user interaction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Screenshot 📸
+
+
+## Live Demo 🚀
+Check out the live demo of the project here: [Calculator](https://izzel24.github.io/calculator)
+
+## How It Works 🔧
+1. **Basic Calculator Functions**: Users can perform addition, subtraction, multiplication, and division using interactive buttons.
+2. **Responsive Input**: The calculator updates the display in real-time as users input numbers and operators.
+3. **Decimal Support**: Users can include decimal points for precise calculations.
+4. **AC Button**: Resets the calculator to its initial state.
+5. **Precedence Handling**: The calculator evaluates expressions with operator precedence (e.g., multiplication and division before addition and subtraction).
